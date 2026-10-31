@@ -22,7 +22,7 @@ a {
   background-size: cover;
   color: rgb(250, 248, 248);
   text-align: center;
-  background-image: url(base.jpg)
+  background-image: url("base.jpg")
 }
 
 .top-wrapper h1 {
